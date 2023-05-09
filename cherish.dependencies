@@ -1,0 +1,57 @@
+[
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_qcom_qssi",
+    "target_path": "device/qcom/qssi",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_qcom_vendor-common",
+    "target_path": "device/qcom/vendor-common",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_qcom_wlan",
+    "target_path": "device/qcom/wlan",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "ThankYouMario/proprietary_vendor_qcom_common",
+    "target_path": "vendor/qcom/common",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience/vendor_qcom_opensource_commonsys-intf_bluetooth",
+    "target_path": "vendor/qcom/opensource/commonsys-intf/bluetooth",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience/vendor_qcom_opensource_core-utils",
+    "target_path": "vendor/qcom/opensource/core-utils",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "CherishOS-Devices/android_vendor_xiaomi_juice",
+    "target_path": "vendor/xiaomi/juice",
+    "branch": "tiramisu"
+  },
+  {
+    "remote": "github",
+    "repository": "CherishOS-Devices/android_kernel_xiaomi_juice",
+    "target_path": "vendor/xiaomi/juice",
+    "branch": "tiramisu",
+    "clone-depth": "1"
+  }
+]
